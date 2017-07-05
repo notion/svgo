@@ -4,7 +4,7 @@ This is a fork of SVGO based on two reasons:
 - this [pull request](https://github.com/svg/svgo/pull/648) was not accepted but is needed.
 
 Here is the new repo: [github.com/notion/svgo](https://github.com/notion/svgo)
-Here is the npm package: []()
+Here is the npm package: [www.npmjs.com/package/trove-svgo](https://www.npmjs.com/package/trove-svgo)
 
 ---
 
