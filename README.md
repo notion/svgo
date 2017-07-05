@@ -1,3 +1,13 @@
+This is a fork of SVGO based on two reasons:
+
+- svgo's architecture does not make it easy to extend capability without incorporating the entire program, i.e. [no plugins](https://github.com/svg/svgo/issues/564)
+- this [pull request](https://github.com/svg/svgo/pull/648) was not accepted but is needed.
+
+Here is the new repo: [github.com/notion/svgo](https://github.com/notion/svgo)
+Here is the npm package: []()
+
+---
+
 **english** | [русский](https://github.com/svg/svgo/blob/master/README.ru.md)
 - - -
 
