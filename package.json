@@ -8,9 +8,9 @@
     "optimize",
     "minify"
   ],
-  "homepage": "https://github.com/svg/svgo",
+  "homepage": "https://github.com/notion/svgo",
   "bugs": {
-    "url": "https://github.com/svg/svgo/issues",
+    "url": "https://github.com/notion/svgo/issues",
     "email": "kir@soulshine.in"
   },
   "author": {
@@ -32,11 +32,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/svg/svgo.git"
+    "url": "git://github.com/notion/svgo.git"
   },
   "main": "./lib/svgo.js",
   "bin": {
-    "svgo": "./bin/svgo"
+    "trove-svgo": "./bin/trove-svgo"
   },
   "directories": {
     "bin": "./bin",
