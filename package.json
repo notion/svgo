@@ -1,5 +1,5 @@
 {
-  "name": "trove-svgo",
+  "name": "@trove/svgo",
   "version": "0.7.2",
   "description": "Nodejs-based tool for optimizing SVG vector graphics files",
   "keywords": [
